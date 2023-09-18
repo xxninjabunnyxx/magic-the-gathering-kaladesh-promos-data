@@ -1,0 +1,18 @@
+---
+object: set
+id: a3531980-f20d-4857-9de0-1b6826ef68e9
+code: pkld
+name: Kaladesh Promos
+uri: https://api.scryfall.com/sets/a3531980-f20d-4857-9de0-1b6826ef68e9
+scryfall_uri: https://scryfall.com/sets/pkld
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apkld&unique=prints
+released_at: '2016-09-30'
+set_type: promo
+card_count: 82
+parent_set_code: kld
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: kld
+block: Kaladesh
+icon_svg_uri: https://svgs.scryfall.io/sets/kld.svg?1694404800

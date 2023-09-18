@@ -1,0 +1,111 @@
+---
+object: card
+id: fcb18848-1754-4c2a-adf8-0bb9d4f8673d
+oracle_id: 79676f10-9fca-4bca-acc5-6994955142b4
+multiverse_ids: []
+tcgplayer_id: 123367
+cardmarket_id: 292953
+name: Electrostatic Pummeler
+lang: en
+released_at: '2016-09-30'
+uri: https://api.scryfall.com/cards/fcb18848-1754-4c2a-adf8-0bb9d4f8673d
+scryfall_uri: https://scryfall.com/card/pkld/210s/electrostatic-pummeler?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/c/fcb18848-1754-4c2a-adf8-0bb9d4f8673d.jpg?1562945978
+  normal: https://cards.scryfall.io/normal/front/f/c/fcb18848-1754-4c2a-adf8-0bb9d4f8673d.jpg?1562945978
+  large: https://cards.scryfall.io/large/front/f/c/fcb18848-1754-4c2a-adf8-0bb9d4f8673d.jpg?1562945978
+  png: https://cards.scryfall.io/png/front/f/c/fcb18848-1754-4c2a-adf8-0bb9d4f8673d.png?1562945978
+  art_crop: https://cards.scryfall.io/art_crop/front/f/c/fcb18848-1754-4c2a-adf8-0bb9d4f8673d.jpg?1562945978
+  border_crop: https://cards.scryfall.io/border_crop/front/f/c/fcb18848-1754-4c2a-adf8-0bb9d4f8673d.jpg?1562945978
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact Creature — Construct
+oracle_text: |-
+  When Electrostatic Pummeler enters the battlefield, you get {E}{E}{E} (three energy counters).
+  Pay {E}{E}{E}: Electrostatic Pummeler gets +X/+X until end of turn, where X is its power.
+power: '1'
+toughness: '1'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a3531980-f20d-4857-9de0-1b6826ef68e9
+set: pkld
+set_name: Kaladesh Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a3531980-f20d-4857-9de0-1b6826ef68e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apkld&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pkld?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fcb18848-1754-4c2a-adf8-0bb9d4f8673d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A79676f10-9fca-4bca-acc5-6994955142b4&unique=prints
+collector_number: 210s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+illustration_id: f8a488cf-c4f0-4f97-8d62-49f8117a9b3b
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 12975
+penny_rank: 3657
+prices:
+  usd: 
+  usd_foil: '0.52'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.78'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Electrostatic+Pummeler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Electrostatic+Pummeler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Electrostatic+Pummeler
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/123367?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Electrostatic+Pummeler&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Electrostatic+Pummeler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

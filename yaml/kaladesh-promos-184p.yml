@@ -1,0 +1,118 @@
+---
+object: card
+id: a726e20d-87f5-42d0-9ea7-27c2aac2a49b
+oracle_id: 01a79429-7d57-4a51-9815-a20905ed4707
+multiverse_ids: []
+tcgplayer_id: 217817
+cardmarket_id: 476414
+name: Rashmi, Eternities Crafter
+lang: en
+released_at: '2020-07-04'
+uri: https://api.scryfall.com/cards/a726e20d-87f5-42d0-9ea7-27c2aac2a49b
+scryfall_uri: https://scryfall.com/card/pkld/184p/rashmi-eternities-crafter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/7/a726e20d-87f5-42d0-9ea7-27c2aac2a49b.jpg?1593610260
+  normal: https://cards.scryfall.io/normal/front/a/7/a726e20d-87f5-42d0-9ea7-27c2aac2a49b.jpg?1593610260
+  large: https://cards.scryfall.io/large/front/a/7/a726e20d-87f5-42d0-9ea7-27c2aac2a49b.jpg?1593610260
+  png: https://cards.scryfall.io/png/front/a/7/a726e20d-87f5-42d0-9ea7-27c2aac2a49b.png?1593610260
+  art_crop: https://cards.scryfall.io/art_crop/front/a/7/a726e20d-87f5-42d0-9ea7-27c2aac2a49b.jpg?1593610260
+  border_crop: https://cards.scryfall.io/border_crop/front/a/7/a726e20d-87f5-42d0-9ea7-27c2aac2a49b.jpg?1593610260
+mana_cost: "{2}{G}{U}"
+cmc: 4.0
+type_line: Legendary Creature — Elf Druid
+oracle_text: Whenever you cast your first spell each turn, reveal the top card of
+  your library. You may cast it without paying its mana cost if it's a spell with
+  lesser mana value. If you don't cast it, put it into your hand.
+power: '2'
+toughness: '3'
+colors:
+- G
+- U
+color_identity:
+- G
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a3531980-f20d-4857-9de0-1b6826ef68e9
+set: pkld
+set_name: Kaladesh Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a3531980-f20d-4857-9de0-1b6826ef68e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apkld&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pkld?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a726e20d-87f5-42d0-9ea7-27c2aac2a49b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01a79429-7d57-4a51-9815-a20905ed4707&unique=prints
+collector_number: 184p
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Magali Villeneuve
+artist_ids:
+- 9e6a55ae-be4d-4c23-a2a5-135737ffd879
+illustration_id: d8456044-b8e2-40d2-891a-2c760609f564
+border_color: black
+frame: '2015'
+frame_effects:
+- legendary
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- promopack
+- stamped
+edhrec_rank: 2117
+penny_rank: 7021
+prices:
+  usd: '1.78'
+  usd_foil: '5.85'
+  usd_etched: 
+  eur: '0.65'
+  eur_foil: '2.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rashmi%2C+Eternities+Crafter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rashmi%2C+Eternities+Crafter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rashmi%2C+Eternities+Crafter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/217817?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rashmi%2C+Eternities+Crafter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rashmi%2C+Eternities+Crafter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,110 @@
+---
+object: card
+id: 266ee87a-1bdb-4205-a28f-fd0d7a499f56
+oracle_id: a242c9bf-dab6-4996-bb3a-b4356f9ed0c9
+multiverse_ids: []
+tcgplayer_id: 123378
+cardmarket_id: 292964
+name: Key to the City
+lang: en
+released_at: '2016-09-30'
+uri: https://api.scryfall.com/cards/266ee87a-1bdb-4205-a28f-fd0d7a499f56
+scryfall_uri: https://scryfall.com/card/pkld/220s/key-to-the-city?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/6/266ee87a-1bdb-4205-a28f-fd0d7a499f56.jpg?1562902815
+  normal: https://cards.scryfall.io/normal/front/2/6/266ee87a-1bdb-4205-a28f-fd0d7a499f56.jpg?1562902815
+  large: https://cards.scryfall.io/large/front/2/6/266ee87a-1bdb-4205-a28f-fd0d7a499f56.jpg?1562902815
+  png: https://cards.scryfall.io/png/front/2/6/266ee87a-1bdb-4205-a28f-fd0d7a499f56.png?1562902815
+  art_crop: https://cards.scryfall.io/art_crop/front/2/6/266ee87a-1bdb-4205-a28f-fd0d7a499f56.jpg?1562902815
+  border_crop: https://cards.scryfall.io/border_crop/front/2/6/266ee87a-1bdb-4205-a28f-fd0d7a499f56.jpg?1562902815
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: |-
+  {T}, Discard a card: Up to one target creature can't be blocked this turn.
+  Whenever Key to the City becomes untapped, you may pay {2}. If you do, draw a card.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a3531980-f20d-4857-9de0-1b6826ef68e9
+set: pkld
+set_name: Kaladesh Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a3531980-f20d-4857-9de0-1b6826ef68e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apkld&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pkld?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/266ee87a-1bdb-4205-a28f-fd0d7a499f56/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa242c9bf-dab6-4996-bb3a-b4356f9ed0c9&unique=prints
+collector_number: 220s
+digital: false
+rarity: rare
+flavor_text: It would be unfortunate if the key fell into the wrong hands.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sean Murray
+artist_ids:
+- aa53c0ff-b486-4291-bef3-656343547811
+illustration_id: 1119c5f1-888d-4741-bb4e-9831b191f158
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 1274
+penny_rank: 2771
+prices:
+  usd: 
+  usd_foil: '1.93'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.95'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Key+to+the+City&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Key+to+the+City&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Key+to+the+City
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/123378?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Key+to+the+City&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Key+to+the+City&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

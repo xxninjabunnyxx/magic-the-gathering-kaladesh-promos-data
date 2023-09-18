@@ -1,0 +1,123 @@
+---
+object: card
+id: a8cbbd88-fda3-4a5f-88e8-a709e121a01d
+oracle_id: af42079b-a3c0-448c-9bb2-b915252e87a9
+multiverse_ids: []
+tcgplayer_id: 123346
+cardmarket_id: 292937
+name: Animation Module
+lang: en
+released_at: '2016-09-30'
+uri: https://api.scryfall.com/cards/a8cbbd88-fda3-4a5f-88e8-a709e121a01d
+scryfall_uri: https://scryfall.com/card/pkld/194s/animation-module?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/8/a8cbbd88-fda3-4a5f-88e8-a709e121a01d.jpg?1562929049
+  normal: https://cards.scryfall.io/normal/front/a/8/a8cbbd88-fda3-4a5f-88e8-a709e121a01d.jpg?1562929049
+  large: https://cards.scryfall.io/large/front/a/8/a8cbbd88-fda3-4a5f-88e8-a709e121a01d.jpg?1562929049
+  png: https://cards.scryfall.io/png/front/a/8/a8cbbd88-fda3-4a5f-88e8-a709e121a01d.png?1562929049
+  art_crop: https://cards.scryfall.io/art_crop/front/a/8/a8cbbd88-fda3-4a5f-88e8-a709e121a01d.jpg?1562929049
+  border_crop: https://cards.scryfall.io/border_crop/front/a/8/a8cbbd88-fda3-4a5f-88e8-a709e121a01d.jpg?1562929049
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact
+oracle_text: |-
+  Whenever one or more +1/+1 counters are put on a permanent you control, you may pay {1}. If you do, create a 1/1 colorless Servo artifact creature token.
+  {3}, {T}: Choose a counter on target permanent or player. Give that permanent or player another counter of that kind.
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: a8cbbd88-fda3-4a5f-88e8-a709e121a01d
+  component: combo_piece
+  name: Animation Module
+  type_line: Artifact
+  uri: https://api.scryfall.com/cards/a8cbbd88-fda3-4a5f-88e8-a709e121a01d
+- object: related_card
+  id: e1980809-4c81-4080-92cd-31776962a4e1
+  component: token
+  name: Servo
+  type_line: Token Artifact Creature — Servo
+  uri: https://api.scryfall.com/cards/e1980809-4c81-4080-92cd-31776962a4e1
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a3531980-f20d-4857-9de0-1b6826ef68e9
+set: pkld
+set_name: Kaladesh Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a3531980-f20d-4857-9de0-1b6826ef68e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apkld&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pkld?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a8cbbd88-fda3-4a5f-88e8-a709e121a01d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaf42079b-a3c0-448c-9bb2-b915252e87a9&unique=prints
+collector_number: 194s
+digital: false
+rarity: rare
+flavor_text: Design leads to progress.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Aaron Miller
+artist_ids:
+- fc021f3d-773a-4706-bbe7-f602324f511f
+illustration_id: 843d66c3-f54f-449a-bb33-7766f5c95f29
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 3691
+penny_rank: 2116
+prices:
+  usd: 
+  usd_foil: '5.91'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.50'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Animation+Module&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Animation+Module&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Animation+Module
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/123346?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Animation+Module&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Animation+Module&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

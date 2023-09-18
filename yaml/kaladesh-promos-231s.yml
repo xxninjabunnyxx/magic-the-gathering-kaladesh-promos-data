@@ -1,0 +1,113 @@
+---
+object: card
+id: a7b24a91-0f0a-4c83-9d63-a0583626c4ce
+oracle_id: d309e1e9-26e6-4a10-a3f4-352c7ba3f2ff
+multiverse_ids: []
+tcgplayer_id: 123398
+cardmarket_id: 292979
+name: Scrapheap Scrounger
+lang: en
+released_at: '2016-09-30'
+uri: https://api.scryfall.com/cards/a7b24a91-0f0a-4c83-9d63-a0583626c4ce
+scryfall_uri: https://scryfall.com/card/pkld/231s/scrapheap-scrounger?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/7/a7b24a91-0f0a-4c83-9d63-a0583626c4ce.jpg?1562928858
+  normal: https://cards.scryfall.io/normal/front/a/7/a7b24a91-0f0a-4c83-9d63-a0583626c4ce.jpg?1562928858
+  large: https://cards.scryfall.io/large/front/a/7/a7b24a91-0f0a-4c83-9d63-a0583626c4ce.jpg?1562928858
+  png: https://cards.scryfall.io/png/front/a/7/a7b24a91-0f0a-4c83-9d63-a0583626c4ce.png?1562928858
+  art_crop: https://cards.scryfall.io/art_crop/front/a/7/a7b24a91-0f0a-4c83-9d63-a0583626c4ce.jpg?1562928858
+  border_crop: https://cards.scryfall.io/border_crop/front/a/7/a7b24a91-0f0a-4c83-9d63-a0583626c4ce.jpg?1562928858
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact Creature — Construct
+oracle_text: |-
+  Scrapheap Scrounger can't block.
+  {1}{B}, Exile another creature card from your graveyard: Return Scrapheap Scrounger from your graveyard to the battlefield.
+power: '3'
+toughness: '2'
+colors: []
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a3531980-f20d-4857-9de0-1b6826ef68e9
+set: pkld
+set_name: Kaladesh Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a3531980-f20d-4857-9de0-1b6826ef68e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apkld&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pkld?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a7b24a91-0f0a-4c83-9d63-a0583626c4ce/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad309e1e9-26e6-4a10-a3f4-352c7ba3f2ff&unique=prints
+collector_number: 231s
+digital: false
+rarity: rare
+flavor_text: Some machines refuse to accept their own obsolescence.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason A. Engle
+artist_ids:
+- 02e2b5de-4341-464c-8fdb-a1adbf873bc0
+illustration_id: f9f74c98-65a5-491d-8e5d-45012bf4197b
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 11851
+penny_rank: 672
+prices:
+  usd: 
+  usd_foil: '1.47'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scrapheap+Scrounger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scrapheap+Scrounger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Scrapheap+Scrounger
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/123398?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scrapheap+Scrounger&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Scrapheap+Scrounger&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

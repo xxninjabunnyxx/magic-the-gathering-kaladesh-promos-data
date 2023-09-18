@@ -1,0 +1,113 @@
+---
+object: card
+id: 3b204a09-7147-4365-841b-e31adceabcd8
+oracle_id: 0a25a72e-5603-4b50-ac20-36b286cc1a2b
+multiverse_ids: []
+tcgplayer_id: 123408
+cardmarket_id: 292986
+name: Wildest Dreams
+lang: en
+released_at: '2016-09-30'
+uri: https://api.scryfall.com/cards/3b204a09-7147-4365-841b-e31adceabcd8
+scryfall_uri: https://scryfall.com/card/pkld/174s/wildest-dreams?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/b/3b204a09-7147-4365-841b-e31adceabcd8.jpg?1562906961
+  normal: https://cards.scryfall.io/normal/front/3/b/3b204a09-7147-4365-841b-e31adceabcd8.jpg?1562906961
+  large: https://cards.scryfall.io/large/front/3/b/3b204a09-7147-4365-841b-e31adceabcd8.jpg?1562906961
+  png: https://cards.scryfall.io/png/front/3/b/3b204a09-7147-4365-841b-e31adceabcd8.png?1562906961
+  art_crop: https://cards.scryfall.io/art_crop/front/3/b/3b204a09-7147-4365-841b-e31adceabcd8.jpg?1562906961
+  border_crop: https://cards.scryfall.io/border_crop/front/3/b/3b204a09-7147-4365-841b-e31adceabcd8.jpg?1562906961
+mana_cost: "{X}{X}{G}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Return X target cards from your graveyard to your hand. Exile Wildest
+  Dreams.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a3531980-f20d-4857-9de0-1b6826ef68e9
+set: pkld
+set_name: Kaladesh Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a3531980-f20d-4857-9de0-1b6826ef68e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apkld&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pkld?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3b204a09-7147-4365-841b-e31adceabcd8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0a25a72e-5603-4b50-ac20-36b286cc1a2b&unique=prints
+collector_number: 174s
+digital: false
+rarity: rare
+flavor_text: |-
+  "I opened my mind to the immensity of the wonders around me. It was only then that I could see the Great Conduit."
+  —Rashmi, aether-seer
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Ljunggren
+artist_ids:
+- 0fbd4798-76eb-46d5-a5d4-1e3a25870e34
+illustration_id: f7086037-715a-4a8c-8fad-0d2ba53aa1a0
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 5443
+penny_rank: 1492
+prices:
+  usd: 
+  usd_foil: '1.64'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wildest+Dreams&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wildest+Dreams&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wildest+Dreams
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/123408?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wildest+Dreams&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wildest+Dreams&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

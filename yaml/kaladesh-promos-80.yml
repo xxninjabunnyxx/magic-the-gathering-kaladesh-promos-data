@@ -1,0 +1,108 @@
+---
+object: card
+id: c3c096f4-3828-429b-8370-0e82f5548d91
+oracle_id: 14363df6-ac0f-476a-bbd8-ce351de0babf
+multiverse_ids: []
+tcgplayer_id: 123430
+cardmarket_id: 292521
+name: Essence Extraction
+lang: en
+released_at: '2016-09-30'
+uri: https://api.scryfall.com/cards/c3c096f4-3828-429b-8370-0e82f5548d91
+scryfall_uri: https://scryfall.com/card/pkld/80/essence-extraction?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/3/c3c096f4-3828-429b-8370-0e82f5548d91.jpg?1562934300
+  normal: https://cards.scryfall.io/normal/front/c/3/c3c096f4-3828-429b-8370-0e82f5548d91.jpg?1562934300
+  large: https://cards.scryfall.io/large/front/c/3/c3c096f4-3828-429b-8370-0e82f5548d91.jpg?1562934300
+  png: https://cards.scryfall.io/png/front/c/3/c3c096f4-3828-429b-8370-0e82f5548d91.png?1562934300
+  art_crop: https://cards.scryfall.io/art_crop/front/c/3/c3c096f4-3828-429b-8370-0e82f5548d91.jpg?1562934300
+  border_crop: https://cards.scryfall.io/border_crop/front/c/3/c3c096f4-3828-429b-8370-0e82f5548d91.jpg?1562934300
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Essence Extraction deals 3 damage to target creature and you gain 3 life.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a3531980-f20d-4857-9de0-1b6826ef68e9
+set: pkld
+set_name: Kaladesh Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a3531980-f20d-4857-9de0-1b6826ef68e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apkld&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pkld?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c3c096f4-3828-429b-8370-0e82f5548d91/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A14363df6-ac0f-476a-bbd8-ce351de0babf&unique=prints
+collector_number: '80'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tomasz Jedruszek
+artist_ids:
+- bba69285-2445-4a4b-a847-59397be972ea
+illustration_id: 5708208a-e3da-47c8-a7f7-4204db9323c5
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: true
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- gameday
+edhrec_rank: 17709
+penny_rank: 1456
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Essence+Extraction&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Essence+Extraction&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Essence+Extraction
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/123430?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Essence+Extraction&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Essence+Extraction&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

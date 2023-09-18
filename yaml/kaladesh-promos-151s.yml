@@ -1,0 +1,127 @@
+---
+object: card
+id: eb9338dc-88a7-4060-bff0-f8439892b0a2
+oracle_id: ca4c0945-7035-47dc-aba8-fbda351d9b7b
+multiverse_ids: []
+tcgplayer_id: 123359
+cardmarket_id: 292947
+name: Cultivator of Blades
+lang: en
+released_at: '2016-09-30'
+uri: https://api.scryfall.com/cards/eb9338dc-88a7-4060-bff0-f8439892b0a2
+scryfall_uri: https://scryfall.com/card/pkld/151s/cultivator-of-blades?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/b/eb9338dc-88a7-4060-bff0-f8439892b0a2.jpg?1562942327
+  normal: https://cards.scryfall.io/normal/front/e/b/eb9338dc-88a7-4060-bff0-f8439892b0a2.jpg?1562942327
+  large: https://cards.scryfall.io/large/front/e/b/eb9338dc-88a7-4060-bff0-f8439892b0a2.jpg?1562942327
+  png: https://cards.scryfall.io/png/front/e/b/eb9338dc-88a7-4060-bff0-f8439892b0a2.png?1562942327
+  art_crop: https://cards.scryfall.io/art_crop/front/e/b/eb9338dc-88a7-4060-bff0-f8439892b0a2.jpg?1562942327
+  border_crop: https://cards.scryfall.io/border_crop/front/e/b/eb9338dc-88a7-4060-bff0-f8439892b0a2.jpg?1562942327
+mana_cost: "{3}{G}{G}"
+cmc: 5.0
+type_line: Creature — Elf Artificer
+oracle_text: |-
+  Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)
+  Whenever Cultivator of Blades attacks, you may have other attacking creatures get +X/+X until end of turn, where X is Cultivator of Blades's power.
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Fabricate
+all_parts:
+- object: related_card
+  id: e1980809-4c81-4080-92cd-31776962a4e1
+  component: token
+  name: Servo
+  type_line: Token Artifact Creature — Servo
+  uri: https://api.scryfall.com/cards/e1980809-4c81-4080-92cd-31776962a4e1
+- object: related_card
+  id: eb9338dc-88a7-4060-bff0-f8439892b0a2
+  component: combo_piece
+  name: Cultivator of Blades
+  type_line: Creature — Elf Artificer
+  uri: https://api.scryfall.com/cards/eb9338dc-88a7-4060-bff0-f8439892b0a2
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a3531980-f20d-4857-9de0-1b6826ef68e9
+set: pkld
+set_name: Kaladesh Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a3531980-f20d-4857-9de0-1b6826ef68e9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apkld&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pkld?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/eb9338dc-88a7-4060-bff0-f8439892b0a2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aca4c0945-7035-47dc-aba8-fbda351d9b7b&unique=prints
+collector_number: 151s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Bastien L. Deharme
+artist_ids:
+- 798f63ec-41ad-474e-9708-df08193345c6
+illustration_id: 692a5ef1-b17e-4fc5-9edf-3d1391a19e7e
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 4690
+penny_rank: 6082
+prices:
+  usd: 
+  usd_foil: '0.56'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.47'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cultivator+of+Blades&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cultivator+of+Blades&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cultivator+of+Blades
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/123359?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cultivator+of+Blades&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cultivator+of+Blades&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
